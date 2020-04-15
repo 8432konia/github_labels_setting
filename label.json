@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Fixed-Review",
+    "color": "7057ff",
+    "description": "指摘修正済み"
+  },
+  {
+    "name": "Marge-ok",
+    "color": "168700",
+    "description": "マージOK"
+  },
+  {
+    "name": "REMEMBER-ME",
+    "color": "0075ca",
+    "description": "別途対応が必要"
+  },
+  {
+    "name": "Request-Change",
+    "color": "d876e3",
+    "description": "修正が必要"
+  },
+  {
+    "name": "WIP",
+    "color": "000000",
+    "description": "実装中"
+  },
+  {
+    "name": "Waiting-Review",
+    "color": "e4e669",
+    "description": "レビュー待ち"
+  },
+  {
+    "name": "no-merge",
+    "color": "d73a4a",
+    "description": "マージしない"
+  }
+]
