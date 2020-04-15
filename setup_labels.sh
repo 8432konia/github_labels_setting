@@ -4,7 +4,7 @@ API_URL="https://api.github.com/repos"
 
 if [ $# -ne 4 ]; then
   echo "[usage]" 1>&2
-  echo "setup_labels.sh {owner} {repo} {user} {token} " 1>&2
+  echo "setup_labels.sh {owner} {repo} {user} {token}" 1>&2
   exit 1
 fi
 
