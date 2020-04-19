@@ -9,7 +9,7 @@
 - secretファイルを作成。ファイル構成については以下に示す
 ```
 # owner: リポジトリの所有者名
-# repo : repository
+# repo : リポジトリ名
 # user : 開発者名
 # token: Personal access tokens
 {owner} {repo} {user} {token}
