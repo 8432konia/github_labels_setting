@@ -10,7 +10,7 @@
 ## 実行コマンド
 ```
 # owner: リポジトリの所有者名
-# repo : repository
+# repo : リポジトリ名
 # user : 開発者名
 # token: Personal access tokens
 
