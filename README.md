@@ -6,13 +6,16 @@
 ## 行うこと
 - jq commandのインストール
 - Personal access tokensの取得(repoのつくものにチェック)
-
-## 実行コマンド
+- secretファイルを作成。ファイル構成については以下に示す
 ```
 # owner: リポジトリの所有者名
 # repo : repository
 # user : 開発者名
 # token: Personal access tokens
+{owner} {repo} {user} {token}
+```
 
-sh setup_labels.sh {owner} {repo} {user} {token}
+## 実行コマンド
+```
+sh start.sh
 ```
