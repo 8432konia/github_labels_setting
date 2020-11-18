@@ -33,5 +33,15 @@
     "name": "no-merge",
     "color": "d73a4a",
     "description": "マージしない"
+  },
+  {
+    "name": "bug",
+    "color": "b60205",
+    "description": "バグ報告"
+  },
+  {
+    "name": "function-request",
+    "color": "c5def5",
+    "description": "機能要望"
   }
 ]
