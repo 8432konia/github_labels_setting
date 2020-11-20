@@ -13,6 +13,8 @@
 # user : 開発者名
 # token: Personal access tokens
 {owner} {repo} {user} {token}
+# ex
+8432konia github_labels_setting 8432konia token
 ```
 
 ## 実行コマンド
