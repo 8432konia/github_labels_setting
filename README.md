@@ -5,15 +5,19 @@
 
 ## 行うこと
 - jq commandのインストール
-- Personal access tokensの取得(repoのつくものにチェック)
-- secretファイルを作成。ファイル構成については以下に示す
+- [Personal access tokens](https://github.com/settings/tokens)にて **Generate new token** をクリック
+  - **repo** にチェックしトークンを発行 
+- sercretsファイルを作成。ファイル構成については以下に示す
 ```
+cd /path/to/github_labels_setting
+vi sercrets
+
 # owner: リポジトリの所有者名
 # repo : リポジトリ名
 # user : 開発者名
 # token: Personal access tokens
-{owner} {repo} {user} {token}
-# ex
+# {owner} {repo} {user} {token}
+# example>
 8432konia github_labels_setting 8432konia token
 ```
 
